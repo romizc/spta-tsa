@@ -1,2 +1,2 @@
 # spta-tsa
-Python code to perform k-medoids and silhouette analyses over univariate time series dataset with parallel capabilities.
+Analysis of spatio-temporal datasets: clustering, forecasting, error analysis, prediction queries.
